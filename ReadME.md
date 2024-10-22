@@ -12,7 +12,7 @@ I'm a Frontend Developer who is passionate about sharing knowledge, documentatio
 - 🌱 Skills: JavaScript, Reactjs, and Vue.js.
 - 😊  I'm driven by a love for frontend development and enjoy turning creative ideas into seamless user experiences.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1ZEP_lJvTjaInu61swvioD-GT2zwLXGp_/view?usp=sharing) and can contact me by emailing samsparko121@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/10nL-lvh3vaMD2s9tgj6N4y89wbT5kcRd/view?usp=sharing) and can contact me by emailing samsparko121@gmail.com.
 
 ---
 
