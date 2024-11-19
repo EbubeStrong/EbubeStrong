@@ -9,7 +9,7 @@ I'm a Frontend Developer who is passionate about sharing knowledge, documentatio
 - 😊 Pronouns: He/him
 - 💡 Fun fact: Frontend development intern at Genesys Tech Hub, where I developed my first web page and engaged in design sprints, deepening my passion for creating impactful user 
       experiences. I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 Skills: JavaScript, Reactjs, and Vue.js.
+- 🌱 Skills: JavaScript, NodeJs ReactJs, and Vue.
 - 😊  I'm driven by a love for frontend development and enjoy turning creative ideas into seamless user experiences.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/10nL-lvh3vaMD2s9tgj6N4y89wbT5kcRd/view?usp=sharing) and can contact me by emailing samsparko121@gmail.com.
