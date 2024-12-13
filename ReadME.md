@@ -12,7 +12,7 @@ I'm a Frontend Developer who is passionate about sharing knowledge, documentatio
 - 🌱 Skills: JavaScript, NodeJs, ReactJs, and Vue.
 - 😊  I'm driven by a love for frontend development and enjoy turning creative ideas into seamless user experiences.
 - 💼 Job interests: Software Engineer, Frontend Engineer.
-- 📫 You can [view my resume](https://ebubestrong-portfolio.vercel.app/assets/Resume-CUI5sADp.pdf) and can contact me by emailing samsparko121@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1xfd4ifFzmd5e9sX1R22SARLYepAmMnHe/view) and can contact me by emailing me [here](samsparko121@gmail.com).
 
 ---
 
